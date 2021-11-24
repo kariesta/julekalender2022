@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import Luker from './components/luker'
 import {
   HashRouter,
   Routes,
