@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Luker from './components/luker'
 import {
-  BrowserRouter,
+  HashRouter,
   Routes,
   Route
 } from "react-router-dom";
@@ -22,7 +22,7 @@ function App() {
   const lukeTider = genererDatoer(new Date(2021,11,21),24); //[new Date(2021,11,21),new Date(2021,11,22),new Date(2021,11,23),new Date(2021,11,24),new Date(2021,11,25)];
   const personer = ["Kristina","Ingrid","Sigrunn"];
   return <div className="App">
-    <BrowserRouter>
+    <HashRouter>
       <Routes> 
       <Route path='/1' element={<Luker/>}/>
       <Route path='/kristina' element={<Kalender number={antallLuker} lukeDates={lukeTider} personEncrypted={personer[0]}/>}/>
@@ -33,7 +33,7 @@ function App() {
       <Route path='/Sigrunn/:lukeID' element={<LukePage number={antallLuker} lukeDates={lukeTider} />}/>
       <Route path='/' element={<KalenderSelection number={7} personer={personer}/>}/>
     </Routes>
-  </BrowserRouter>
+  </HashRouter>
   </div>
 }
 
