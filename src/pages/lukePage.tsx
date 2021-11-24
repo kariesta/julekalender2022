@@ -2,7 +2,7 @@ import React from 'react';
 import { 
     useParams
 } from "react-router-dom";
-import SimpleCrypto from "simple-crypto-js";
+//import SimpleCrypto from "simple-crypto-js";
 
 
 
@@ -17,17 +17,18 @@ function lukeInnhold(lukeNumber: String){
 
 function LukePage(params: lukePageParams) {
     let { lukeID} = useParams();
-    const secretKey = "advent";
-    const simpleCrypto = new SimpleCrypto(secretKey)
-    let lukeNumber = "x";
-    if (lukeID){
-        lukeNumber = simpleCrypto.decrypt(lukeID.toString()).toString();
-
+    //const secretKey = "advent";
+    //const simpleCrypto = new SimpleCrypto(secretKey)
+    if (lukeID === undefined){
+        return <div className="LukePage">
+        ingen luke her
+        </div>
     }
-    const innhold = lukeInnhold(lukeNumber);
+    const innhold = lukeInnhold(lukeID);
+
     return (
         <div className="LukePage">
-            luke nr {lukeNumber}
+            luke nr {lukeID}
             {innhold}
         </div>
     );

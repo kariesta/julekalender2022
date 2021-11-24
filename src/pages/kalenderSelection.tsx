@@ -11,7 +11,7 @@ interface kalenderSelectionParams {
 
 function kalAltern( names:String[]){
     return names.map((name,index) => {
-        return <Link to={"./"+name.toString()} key={index} className="KalenderOption">
+        return <Link to={"../"+name.toString()} key={index} className="KalenderOption">
             {names[index]}
         </Link>
     })

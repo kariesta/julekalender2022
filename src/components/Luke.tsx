@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import SimpleCrypto from "simple-crypto-js";
+//import SimpleCrypto from "simple-crypto-js";
 
 
 
@@ -11,10 +11,11 @@ interface LukeParams {
 }
 
 function url(number:number) {
-    const secretKey = "advent";
-    const simpleCrypto = new SimpleCrypto(secretKey);
+    //SimpleCrypto seems timebased, need redux to keep instans over entire project
+    //const secretKey = "advent";
+    //const simpleCrypto = new SimpleCrypto(secretKey);
 
-    return "./"+simpleCrypto.encrypt(number.toString());
+    return "./"+number.toString();//+simpleCrypto.encrypt(number.toString());
 }
 
 function Luke(params: LukeParams) {

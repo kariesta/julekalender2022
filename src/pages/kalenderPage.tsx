@@ -4,7 +4,7 @@ import Luke from '../components/Luke';
 interface kalenderParams {
     number: number,
     lukeDates: Date[],
-    personEncrypted: String
+    person: String
 }
 
 function genererLuker(dates:Date[], person: String){
@@ -31,7 +31,7 @@ function shuffle(array:JSX.Element[]) {
   }
 
 function Kalender(params: kalenderParams) {
-    const luker = genererLuker(params.lukeDates,params.personEncrypted);//(5,[new Date(2021,11,21),new Date(2021,11,22),new Date(2021,11,23),new Date(2021,11,24),new Date(2021,11,25)])
+    const luker = genererLuker(params.lukeDates,params.person);//(5,[new Date(2021,11,21),new Date(2021,11,22),new Date(2021,11,23),new Date(2021,11,24),new Date(2021,11,25)])
 
     return (
         <div className="KalenderPage">
