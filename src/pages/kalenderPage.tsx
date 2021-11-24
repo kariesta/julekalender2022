@@ -1,8 +1,5 @@
 import React from 'react';
 import Luke from '../components/Luke';
-import { 
-    useParams
-} from "react-router-dom";
 
 interface kalenderParams {
     number: number,
@@ -10,7 +7,7 @@ interface kalenderParams {
     personEncrypted: String
 }
 
-function genererLuker(number: number, dates:Date[], person: String){
+function genererLuker(dates:Date[], person: String){
     return shuffle(dates.map((date ,index) => {return <Luke number={index+1} date={date} person={person}/>}));
 }
 
@@ -19,7 +16,7 @@ function shuffle(array:JSX.Element[]) {
     let currentIndex = array.length,  randomIndex;
   
     // While there remain elements to shuffle...
-    while (currentIndex != 0) {
+    while (currentIndex !== 0) {
   
       // Pick a remaining element...
       randomIndex = Math.floor(Math.random() * currentIndex);
@@ -34,8 +31,7 @@ function shuffle(array:JSX.Element[]) {
   }
 
 function Kalender(params: kalenderParams) {
-    const luker = genererLuker(params.number,params.lukeDates,params.personEncrypted);//(5,[new Date(2021,11,21),new Date(2021,11,22),new Date(2021,11,23),new Date(2021,11,24),new Date(2021,11,25)])
-    let { kalendername } = useParams();
+    const luker = genererLuker(params.lukeDates,params.personEncrypted);//(5,[new Date(2021,11,21),new Date(2021,11,22),new Date(2021,11,23),new Date(2021,11,24),new Date(2021,11,25)])
 
     return (
         <div className="KalenderPage">

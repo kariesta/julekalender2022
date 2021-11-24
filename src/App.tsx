@@ -7,8 +7,6 @@ import {
   Route
 } from "react-router-dom";
 import Kalender from './pages/kalenderPage';
-import md5 from 'md5';
-import SimpleCrypto from "simple-crypto-js";
 import KalenderSelection from './pages/kalenderSelection';
 import LukePage from './pages/lukePage';
 
@@ -20,12 +18,8 @@ function genererDatoer(startDato: Date, antall: number):Date[]{
 }
 
 function App() {
-  const secretKey = "advent";
-  const simpleCrypto = new SimpleCrypto(secretKey)
-
   const antallLuker = 24;
   const lukeTider = genererDatoer(new Date(2021,11,21),24); //[new Date(2021,11,21),new Date(2021,11,22),new Date(2021,11,23),new Date(2021,11,24),new Date(2021,11,25)];
-  const personEncrypted = simpleCrypto.encrypt("Kristina");
   const personer = ["Kristina","Ingrid","Sigrunn"];
   return <div className="App">
     <BrowserRouter>
