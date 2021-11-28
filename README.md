@@ -11,6 +11,12 @@ Idemyldrign for kalender generering: variabler:
 - navn 
 - ta inn mappe med tekst for å lage egne luke-sider eller bare direkte link til andre sider.
 
+TODO:
+date restrictions på luke
+luke innhold
+printe ut luke.
+
+
 
 
 # Getting Started with Create React App
