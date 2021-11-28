@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import luke1kris from '../LUKER/luke1Kris.png';
+//import luke1kris from '../LUKER/luke1Kris.png';
 
 
 interface QrLukeParams {
