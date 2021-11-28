@@ -26,14 +26,12 @@ function getImage(num: number, pers: String){
     else if (pers === 'Sigrunn') {
         personCode = "sig";
     }
-    return  "luke"+num.toString()+personCode+".png";
+    return  require("../LUKER/luke"+num.toString()+personCode+".png");
     
 }
 
 function QrLuke(params: QrLukeParams) {
-    const imageSrc = getImage(params.number,params.person)
-    console.log("../LUKER/"+imageSrc);
-    const image = require("../LUKER/"+imageSrc);
+    const image = getImage(params.number,params.person)
     console.log(image)
     return (
         <Link to={url(params.number)} className="Luke">
