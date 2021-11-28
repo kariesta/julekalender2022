@@ -26,7 +26,7 @@ function getImage(num: number, pers: String){
     else if (pers === 'Sigrunn') {
         personCode = "sig";
     }
-    return  "../LUKER/luke"+num.toString()+personCode+".png";
+    return  "luke"+num.toString()+personCode+".png";
     
 }
 
@@ -34,7 +34,7 @@ function QrLuke(params: QrLukeParams) {
     const imageSrc = getImage(params.number,params.person)
     return (
         <Link to={url(params.number)} className="Luke">
-        <img className="QRcode" src={require(imageSrc)} alt={"QR kode for luke "+params.number.toString()}/>
+        <img className="QRcode" src={require("../LUKER/"+imageSrc)} alt={"QR kode for luke "+params.number.toString()}/>
         </Link>
     );
 }
