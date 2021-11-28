@@ -33,7 +33,7 @@ function getImage(num: number, pers: String){
 function QrLuke(params: QrLukeParams) {
     const image = getImage(params.number,params.person)
     return (
-        <Link to={url(params.number)} className="Luke">
+        <Link to={url(params.number)} className="QrLuke">
         <img className="QRcode" src={image} alt={"QR kode for luke "+params.number.toString()}/>
         </Link>
     );

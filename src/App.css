@@ -1,13 +1,17 @@
 .App {
   text-align: center;
-  background-color: #ab47bc;
+  background-color: #c8e6c9
+
+  ;
   align-items: center;
   align-content: space-around;
   justify-content: center;
 }
 
 .accent{
-  color: #e91e63;
+  color: #f44336
+
+  ;
 }
 
 .App-logo {
@@ -28,9 +32,9 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-evenly;
-
-  background-color: #ab47bc;
-  color: white;
+  margin-bottom: 15px;;
+  background-color: #f1f8e9;
+  color: black;
   font-size: calc(10px + 2vmin);
 }
 
@@ -45,13 +49,13 @@
   align-items: center;
   justify-content: space-evenly;
 
-  background-color: #ab47bc;
+  background-color: #f1f8e9;
   color: white;
   font-size: calc(10px + 2vmin);
 }
 
 .KalenderSelection{
-  background-color: #ab47bc;
+  background-color: #f1f8e9;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -65,7 +69,7 @@
   background: transparent;
   text-align: center;
   color: white;
-  border:3px dashed #e91e63;
+  border:3px dashed #f44336;
   vertical-align: middle;
   min-width: 2rem;
   height: 2rem;
@@ -80,34 +84,55 @@
   
   width: 2rem;
   height: 2rem;
-  padding: 1.8rem;
-  margin: 1.8rem;
+  padding: 2.7rem;
+  margin: 1rem;
 
   background: transparent;
-  color: white;
-  border:3px dashed #e91e63;
+  color: #616161;
+  border:3px dashed #f44336;
   font-size: x-large;
   text-decoration-line: none;
 }
 
 .Luke:hover {
-  background: #df78ef;
+  background: #f1f8e9;
   font-size: xx-large;
 }
 
+.QrLuke{
+  text-align: center;
+  vertical-align: middle;
+  
+  width: 7.4rem;
+  height: 7.4rem;
+  margin: 1rem;
+
+  background: transparent;
+  color: #f44336;
+  border:3px dashed #f44336;
+  font-size: x-large;
+  text-decoration-line: none;
+}
+
+.QRcode{
+  width: 7.4rem;
+  height: 7.4rem;
+}
+
 .Luker {
-  background-color: #ab47bc;
+  background-color: #f1f8e9;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-evenly;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #f44336;
 }
 
+
 .LukePage{
-  background-color: #ab47bc;
+  background-color: #f1f8e9;
 }
 
 @keyframes App-logo-spin {
