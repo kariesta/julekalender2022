@@ -26,13 +26,12 @@ function getImage(num: number, pers: String){
     else if (pers === 'Sigrunn') {
         personCode = "sig";
     }
-    return  require("../LUKER/luke"+num.toString()+personCode+".png");
+    return  "https://kariesta.github.io/Julekalender2021/LUKER/luke"+num.toString()+personCode+".png";
     
 }
 
 function QrLuke(params: QrLukeParams) {
     const image = getImage(params.number,params.person)
-    console.log(image)
     return (
         <Link to={url(params.number)} className="Luke">
         <img className="QRcode" src={image} alt={"QR kode for luke "+params.number.toString()}/>
