@@ -8,7 +8,7 @@ interface kalenderParams {
 }
 
 function genererLuker(dates:Date[], person: String){
-    return shuffle(dates.map((date ,index) => {return <Luke number={index+1} date={date} person={person}/>}));
+    return shuffle(dates.map((date ,index) => {return <Luke number={index+1} key={index} date={date} person={person}/>}));
 }
 
 //borrowed from https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array

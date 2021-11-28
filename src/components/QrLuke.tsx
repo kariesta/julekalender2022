@@ -32,9 +32,12 @@ function getImage(num: number, pers: String){
 
 function QrLuke(params: QrLukeParams) {
     const imageSrc = getImage(params.number,params.person)
+    console.log("../LUKER/"+imageSrc);
+    const image = require("../LUKER/"+imageSrc);
+    console.log(image)
     return (
         <Link to={url(params.number)} className="Luke">
-        <img className="QRcode" src={require("../LUKER/"+imageSrc)} alt={"QR kode for luke "+params.number.toString()}/>
+        <img className="QRcode" src={image} alt={"QR kode for luke "+params.number.toString()}/>
         </Link>
     );
 }
