@@ -13,26 +13,30 @@ import LukePage from './pages/lukePage';
 
 function genererDatoer(startDato: Date, antall: number):Date[]{
   const datoer:Date[] = [];
-  for (var i = 0; i < antall; i++) datoer.push(new Date(startDato.getFullYear(),startDato.getMonth(), startDato.getDate()+1))
+  const enDagIMs = 86400000;
+  for (var i = 0; i < antall; i++) {
+    const newOne: Date = new Date(startDato.getTime()+(enDagIMs*i));
+    datoer.push(newOne);
+  }
   return datoer;
 }
 
 function App() {
   const antallLuker = 24;
-  const lukeTider = genererDatoer(new Date(2021,11,21),24); //[new Date(2021,11,21),new Date(2021,11,22),new Date(2021,11,23),new Date(2021,11,24),new Date(2021,11,25)];
+  const lukeTider = genererDatoer(new Date(2021,11,1),24);//change back before commit!
+  console.log(lukeTider)
   const personer = ["Kristina","Ingrid","Sigrunn"];
   return <div className="App">
     <HashRouter>
       <Routes> 
       <Route path='/Kristina' element={<Kalender number={antallLuker} lukeDates={lukeTider} person={personer[0]}/>}/>
       <Route path='/Kristinaprint' element={<Kalenderprint number={antallLuker} lukeDates={lukeTider} person={personer[0]}/>}/>
-      <Route path='/Kristina/:lukeID' element={<LukePage number={antallLuker} lukeDates={lukeTider} />}/>
+      <Route path='/:person/:lukeID' element={<LukePage lukeDates={lukeTider} />}/>
       <Route path='/Ingrid' element={<Kalender number={antallLuker} lukeDates={lukeTider} person={personer[1]}/>}/>
       <Route path='/Ingridprint' element={<Kalenderprint number={antallLuker} lukeDates={lukeTider} person={personer[1]}/>}/>
-      <Route path='/Ingrid/:lukeID' element={<LukePage number={antallLuker} lukeDates={lukeTider} />}/>
+      <Route path='/Ingrid/:lukeID' element={<LukePage lukeDates={lukeTider} />}/>
       <Route path='/Sigrunn' element={<Kalender number={antallLuker} lukeDates={lukeTider} person={personer[2]}/>}/>
       <Route path='/Sigrunnprint' element={<Kalenderprint number={antallLuker} lukeDates={lukeTider} person={personer[2]}/>}/>
-      <Route path='/Sigrunn/:lukeID' element={<LukePage number={antallLuker} lukeDates={lukeTider} />}/>
       <Route path='/select' element={<KalenderSelection number={7} personer={personer}/>}/>
     </Routes>
   </HashRouter>
