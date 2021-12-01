@@ -31,12 +31,11 @@ function App() {
       <Routes> 
       <Route path='/Kristina' element={<Kalender number={antallLuker} lukeDates={lukeTider} person={personer[0]}/>}/>
       <Route path='/Kristinaprint' element={<Kalenderprint number={antallLuker} lukeDates={lukeTider} person={personer[0]}/>}/>
-      <Route path='/:person/:lukeID' element={<LukePage lukeDates={lukeTider} />}/>
       <Route path='/Ingrid' element={<Kalender number={antallLuker} lukeDates={lukeTider} person={personer[1]}/>}/>
       <Route path='/Ingridprint' element={<Kalenderprint number={antallLuker} lukeDates={lukeTider} person={personer[1]}/>}/>
-      <Route path='/Ingrid/:lukeID' element={<LukePage lukeDates={lukeTider} />}/>
       <Route path='/Sigrunn' element={<Kalender number={antallLuker} lukeDates={lukeTider} person={personer[2]}/>}/>
       <Route path='/Sigrunnprint' element={<Kalenderprint number={antallLuker} lukeDates={lukeTider} person={personer[2]}/>}/>
+      <Route path='/:person/:lukeID' element={<LukePage lukeDates={lukeTider} />}/>
       <Route path='/select' element={<KalenderSelection number={7} personer={personer}/>}/>
     </Routes>
   </HashRouter>

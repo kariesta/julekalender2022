@@ -4,6 +4,7 @@ import {
 } from "react-router-dom";
 import lukeinnhold from "../data/lukeinnhold";
 //import SimpleCrypto from "simple-crypto-js";
+import ReactPlayer from 'react-player/youtube';
 
 
 
@@ -14,11 +15,19 @@ interface lukePageParams {
 function lukeInnhold(lukeNumber: String, person: String){
     const kalendermatch = lukeinnhold.filter(element => element.person === person)[0].kalender;
     const lukematch = kalendermatch.filter(element => element.luke === lukeNumber)[0];
-    return <div> 
-        {lukematch.innhold.starttekst}
-        {lukematch.innhold.video}
-        {lukematch.innhold.bilde}
-        {lukematch.innhold.slutttekst}
+    return <div className="lukeInnhold"> 
+        <p className="Starttekst">{lukematch.innhold.starttekst}</p>
+        {lukematch.innhold.video && <div className="videoContainer">
+        <ReactPlayer 
+            id='video'
+            url={lukematch.innhold.video}
+            playing={false}
+            loop={true}
+            light={true}
+          />
+        </div>}
+        {lukematch.innhold.bilde && <img src={lukematch.innhold.bilde} />}
+        <p  className="Slutttekst">{lukematch.innhold.slutttekst}</p>
     </div>
 }
 
@@ -31,7 +40,7 @@ function LukePage(params: lukePageParams) {
         ingen luke her
         </div>
     }
-    if  (params.lukeDates[parseInt(lukeID)].getTime() > Date.now()){
+    if  (params.lukeDates[parseInt(lukeID)-1].getTime() > Date.now()){
         return (<div className="LukePage">
             app, app, app, nå er du litt tidlig ute 👀
         </div> )
@@ -40,7 +49,7 @@ function LukePage(params: lukePageParams) {
 
     return (
         <div className="LukePage">
-            <h1>luke nr {lukeID}</h1>
+            <h1 className="tittel">luke nr {lukeID}</h1>
             {innhold}
         </div>
     );

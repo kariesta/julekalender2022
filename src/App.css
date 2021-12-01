@@ -150,6 +150,22 @@
   font-size: calc(10px + 2vmin);
 }
 
+.tittel{
+  width: 100%;;
+}
+
+.Starttekst, .Slutttekst{
+  margin: 2.5rem;
+}
+
+.videoContainer{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 2.5rem;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
