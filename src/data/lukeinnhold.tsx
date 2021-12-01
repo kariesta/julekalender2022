@@ -145,7 +145,7 @@ const sigrunn = [
 
 const ingrid = [
     {person: "Ingrid", luke: "1", innhold: 
-        {starttekst:"heihei! velkommen til luke 1, vi starter mykt, bak dagens luke har vi: 1 kroki, med meg!(ikke som model altså)",
+        {starttekst:"heihei! velkommen til luke 1, vi starter mykt, bak dagens luke har vi: En kroki!..hva? neivel, et kakestykke med meg!(hehe rakk å oppdatere denne i siste liten)",
         video:"", 
         bilde:"https://i.pinimg.com/originals/c3/f4/9d/c3f49d863fadbc342b460797834b8728.gif", 
         slutttekst: ""}},
