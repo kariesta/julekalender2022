@@ -42,15 +42,15 @@ function Kalenderprint(params: kalenderParams) {
     const lukeBilder = genererLukeBilder(luker);
     return (
         <div className="Kalenderprint">
-            <div className="KalenderPage">
+            <div className="KalenderprintPage">
                 <h1 >JULEKALENDER 2021</h1>
-                <div className="Kalender">
+                <div className="Kalenderprintable">
                     {luker}
                 </div>
             </div>
-            <div className="KalenderPage">
+            <div className="KalenderprintPage">
                 <h1 >JULEKALENDER 2021</h1>
-                <div className="Kalender">
+                <div className="Kalenderprintable">
                     {lukeBilder}
                 </div>
             </div>

@@ -23,6 +23,19 @@
   font-size: calc(10px + 2vmin);
 }
 
+.Kalenderprintable {
+  height: inherit;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 15px;;
+  background-color: #dcedc7;
+  color: black;
+  font-size: calc(10px + 2vmin);
+}
+
 .KalenderPage{
   min-height: 100vh;
   max-width:760px;
@@ -35,6 +48,39 @@
   justify-content: space-evenly;
 
   background-color: #c5e1a5;
+  color: white;
+  font-size: calc(10px + 2vmin);
+}
+
+.KalenderprintPage{
+  min-height: 100vh;
+  max-width:760px;
+  margin: 0 auto;
+
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+
+  background-color: #dcedc7;
+  color: white;
+  font-size: calc(10px + 2vmin);
+}
+
+
+.LandingPage{
+  min-height: 100vh;
+  max-width:760px;
+  margin: 0 auto;
+
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items:flex-start;
+  justify-content: space-around;
+
+  background-color: #dcedc7;
   color: white;
   font-size: calc(10px + 2vmin);
 }

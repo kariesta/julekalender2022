@@ -213,10 +213,81 @@ const ingrid = [
         {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}}
 ]
 
+const thaoOgTine = [
+    {person: "ThaoOgTine", luke: "1", innhold: 
+        {starttekst:"",
+        video:"", 
+        bilde:"", 
+        slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "2", innhold: 
+        {starttekst:"",
+        video:"", 
+        bilde:"", 
+        slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "3", innhold: 
+        {starttekst:"",
+        video:"", 
+        bilde:"", 
+        slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "4", innhold: 
+        {starttekst:"",
+        video:"", 
+        bilde:"", 
+        slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "5", innhold: 
+        {starttekst:"",
+        video:"", 
+        bilde:"", 
+        slutttekst: ""}},
+    
+
+    {person: "ThaoOgTine", luke: "6", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "7", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "8", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "9", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "10", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "11", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "12", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    
+    {person: "ThaoOgTine", luke: "13", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "14", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "15", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "16", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "17", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "18", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "19", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    
+    {person: "ThaoOgTine", luke: "20", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "21", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "22", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "23", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+    {person: "ThaoOgTine", luke: "24", innhold: 
+        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}}
+]
+
 const lukeinnhold = [
     {person: "Kristina", kalender: kristina },
     {person: "Sigrunn", kalender: sigrunn },
-    {person: "Ingrid", kalender: ingrid }
+    {person: "Ingrid", kalender: ingrid },
+    {person: "ThaoOgTine", kalender: thaoOgTine }
     ]
 
 export default lukeinnhold;
