@@ -150,7 +150,7 @@ const ingrid = [
         bilde:"https://i.pinimg.com/originals/c3/f4/9d/c3f49d863fadbc342b460797834b8728.gif", 
         slutttekst: ""}},
     {person: "Ingrid", luke: "2", innhold: 
-        {starttekst:"oioioi luke nr 2 hva kan den by på? enda en tegne oppgave, fordi de beste gavene er mer ansvar,right? neida, jo da, men har du lyst har du lov.\n\nDagens inspirasjon er en frukt av/og/i geometriske figurer, tolk det som du vil",
+        {starttekst:"oioioi luke nr 2 hva kan den by på? en tegne oppgave, fordi de beste gavene er mer ansvar,right? neida, jo da, men har du lyst har du lov.\n\nDagens inspirasjon er en frukt av/og/i geometriske figurer, tolk det som du vil. ELLER spis litt frukt 🍎",
         video:"https://www.youtube.com/watch?v=Uv5lRAwXqug", 
         bilde:"", 
         slutttekst: ""}},
@@ -163,12 +163,12 @@ const ingrid = [
         {starttekst:"D👋a👌g🤌e🤞n🤟s t🤙e👉m✊a:",
         video:"https://www.youtube.com/watch?v=2CmrMRXoA8Q", 
         bilde:"https://media1.giphy.com/media/26his6GdOe4ygpZJK/giphy.gif?cid=790b7611ec0a6feaa3090f9f6e46dfe7e304e4dc6d9071c5&rid=giphy.gif&ct=g", 
-        slutttekst: ""}},
+        slutttekst: "Ingen tid til tegning? da anbefaler jeg deg å holde hender med noen."}},
     {person: "Ingrid", luke: "5", innhold: 
         {starttekst:"Nå har vi kommet til 2. søndag i advent en rolig dag der man skal tenne lys for håp og glede, og hva gir vel mer håp en skjorterermer? eller mer glede en å se dem brettes opp! ",
         video:"", 
         bilde:"https://media3.giphy.com/media/WU1VgGLMrjxxsqEnxJ/giphy.gif?cid=ecf05e47zau4udref8bmothppnqg2t7wzqvous2fm8jxtrk7&rid=giphy.gif&ct=g", 
-        slutttekst: ""}},
+        slutttekst: "Som du kanskje gjetter er dagens tegnemotiv noen i skjorte, ELLER så kan du gå i skjorte selv."}},
     
 
     {person: "Ingrid", luke: "6", innhold: 

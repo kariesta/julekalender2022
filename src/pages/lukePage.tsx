@@ -17,13 +17,15 @@ function lukeInnhold(lukeNumber: String, person: String){
     const lukematch = kalendermatch.filter(element => element.luke === lukeNumber)[0];
     return <div className="lukeInnhold"> 
         <p className="Starttekst">{lukematch.innhold.starttekst}</p>
-        {lukematch.innhold.video && <div className="videoContainer">
+        {lukematch.innhold.video && <div className="player-wrapper">
         <ReactPlayer 
-            id='video'
+            className='react-player'
             url={lukematch.innhold.video}
             playing={false}
             loop={true}
             light={true}
+            width='100%'
+            height='100%'
           />
         </div>}
         {lukematch.innhold.bilde && <img src={lukematch.innhold.bilde} alt="et bilde eller gif som passer til teksten."/>}
