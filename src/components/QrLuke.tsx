@@ -16,16 +16,9 @@ function url(number:number) {
 function getImage(num: number, pers: String){
     //combine number and name start to image path.
     //const personCodes:  { [key: string]: string; } = {'Kristina':"kris",'Ingrid':"ing"};
-    let personCode = " ";
-    if (pers === 'Kristina') {
-        personCode = "kris";
-    }
-    else if (pers === 'Ingrid') {
-        personCode = "ing";
-    }
-    else if (pers === 'Sigrunn') {
-        personCode = "sig";
-    }
+    const personCodes = [{name: "Kristina", sufix: "kris"},{name: "Ingrid", sufix: "ing"},{name: "Sigrunn", sufix: "sig"},{name: "ThaoOgTine", sufix: "tt"}]
+    const personCode = personCodes.filter(elem => elem.name == pers)[0].sufix;
+
     return  "https://kariesta.github.io/Julekalender2021/LUKER/luke"+num.toString()+personCode+".png";
     
 }
