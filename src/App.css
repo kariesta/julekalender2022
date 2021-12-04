@@ -205,12 +205,31 @@
 }
 
 .videoContainer{
-  width: 100%;
+  width: 80%;
   display: flex;
   justify-content: center;
   margin: 0 auto 2.5rem;
 }
 
+.lukeImage{
+  width: 80%;
+  margin: 2.5rem auto;
+}
+
+
+@media only screen and (max-width: 600px){
+  .videoContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto 2.5rem;
+  }
+  
+  .lukeImage{
+    width: 100%;
+    margin: 2.5rem auto;
+  }
+}
 
 @keyframes App-logo-spin {
   from {

@@ -28,7 +28,7 @@ function lukeInnhold(lukeNumber: String, person: String){
             height='100%'
           />
         </div>}
-        {lukematch.innhold.bilde && <img src={lukematch.innhold.bilde} alt="et bilde eller gif som passer til teksten."/>}
+        {lukematch.innhold.bilde && <img className="lukeImage" src={lukematch.innhold.bilde} alt="et bilde eller gif som passer til teksten."/>}
         <p  className="Slutttekst">{lukematch.innhold.slutttekst}</p>
     </div>
 }
