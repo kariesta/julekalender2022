@@ -33,9 +33,9 @@ const kristina = [
     
 
     {person: "Kristina", luke: "6", innhold: 
-        {starttekst: "Er du her fortsatt? så bra!",video:"", bilde:"", slutttekst: ""}},
+        {starttekst: "Er du her fortsatt? så bra! Håper du har en god mandag og ikke en blåmandag, men i tilfelle så har du en catchy tune å nynne på",video:"https://www.youtube.com/watch?v=B2EI65ZEqYQ", bilde:"", slutttekst: "work it gurl! (Meredith Stepien kan sjefe meg rundt anyday)"}},
     {person: "Kristina", luke: "7", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"syv, sju, 3*2+1 er et lykketall, så i dag er du heldig, i dag er din dag, baby come on, did i studder?",video:"https://www.youtube.com/watch?v=YXt463X_BB8", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "8", innhold: 
         {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "9", innhold: 
@@ -172,45 +172,45 @@ const ingrid = [
     
 
     {person: "Ingrid", luke: "6", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Julen bringer mye godis, selv i ukedagene, idag er oppdraget ditt å tegne et sukkertøy",video:"", bilde:"https://media4.giphy.com/media/hggiEdpVp8yUH9qSTf/giphy.gif?cid=ecf05e47hq5av3400hv56ayvncaxt55pfhwkemlrzofvhjib&rid=giphy.gif&ct=g", slutttekst: "ELLER bare se søt ut"}},
     {person: "Ingrid", luke: "7", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"I går var en skikkelig søt dag så i dag har jeg den perfekte oppgaven til deg! Tegne en katt ELLLLER lage kattelyder i løpet av hver samtale resten av dagen. 😈",video:"https://media2.giphy.com/media/13CoXDiaCcCoyk/giphy.gif?cid=ecf05e47t7fs9tg51q6uam91zy1k2hmry0tmn8t66uf5grse&rid=giphy.gif&ct=g", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "8", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "9", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "10", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "11", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "12", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     
     {person: "Ingrid", luke: "13", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "14", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "15", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "16", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "17", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "18", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "19", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     
     {person: "Ingrid", luke: "20", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "21", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "22", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "23", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "24", innhold: 
-        {starttekst:"heihei her er enda en  eksempel luke",video:"", bilde:"", slutttekst: ""}}
+        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}}
 ]
 
 const thaoOgTine = [
