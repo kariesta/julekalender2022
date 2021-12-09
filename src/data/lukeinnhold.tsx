@@ -1,6 +1,8 @@
 import krissysmartimage from '../images/krissykariersmart.png'
 import parisimage from '../images/blurreyparis.jpg'
 
+const laubærbladene = "Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg."
+
 const kristina = [
     {person: "Kristina", luke: "1", innhold: 
         {starttekst:"heihei velkommen til luke 1 i denne julekalenderen. ganske kul eller hva? det er veldig lov å synes den er kjempe kul og åpne hver luke i iver, men det er også veldig lov til å si 'takk det var akkurat det jeg ønsket meg' -.- og la den samle støv. Denne kalenderen blir slettet fra internetten etter jul så ikke tenk på at dette er enda en innboks å holde styr på 😉.  Men fest setebeltene og slukk sigaretten, her kommer første luke:",
@@ -37,41 +39,41 @@ const kristina = [
     {person: "Kristina", luke: "7", innhold: 
         {starttekst:"syv, sju, 3*2+1 er et lykketall, så i dag er du heldig, i dag er din dag, baby come on, did i studder?",video:"https://www.youtube.com/watch?v=YXt463X_BB8", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "8", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Denne luken har vært her hele tiden, hva er det du snakker om? Jeg har ikke latt denne luken stå tom for lenge (ok kanskje egentlig, men er det ikke gøyere om) DET VAR EN DEL AV PLANEN HELE TIDEN" ,video:"https://www.youtube.com/watch?v=F8YY8tXGoEw", bilde:"", slutttekst: "xoxo gaslight, gatekeep, girlboss"}},
     {person: "Kristina", luke: "9", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Jeg er i et litt 'buhu å skrive master er så vanskelig når man har gode veiledere, signert fulltidskontrakt og ingen flere eksamner'- hjørne så hvorfor ikke joine kongen av selvmedlidenhet?" ,video:"https://www.youtube.com/watch?v=mx7bYY9KZF4&t=394s", bilde:"", slutttekst: "Jeg finner ikke, men trenger et gif av ca. 8:32-8:35"}},
     {person: "Kristina", luke: "10", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "11", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "12", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     
     {person: "Kristina", luke: "13", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "14", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "15", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "16", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "17", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "18", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "19", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     
     {person: "Kristina", luke: "20", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "21", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "22", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "23", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "24", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}}
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}}
 ]
 
 const sigrunn = [
@@ -176,41 +178,42 @@ const ingrid = [
     {person: "Ingrid", luke: "7", innhold: 
         {starttekst:"I går var en skikkelig søt dag så i dag har jeg den perfekte oppgaven til deg! Tegne en katt ELLLLER lage kattelyder i løpet av hver samtale resten av dagen. 😈",video:"https://media2.giphy.com/media/13CoXDiaCcCoyk/giphy.gif?cid=ecf05e47t7fs9tg51q6uam91zy1k2hmry0tmn8t66uf5grse&rid=giphy.gif&ct=g", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "8", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dette skulle egentlig være en kroki-dag, men men, la oss ta en til yoga pose",video:"https://www.youtube.com/watch?v=M-8FvC3GD8c", bilde:"", slutttekst: "PS: denne luken har vært her hele tiden, helt vanlig luke.\nxoxo gaslight, gatekeep, girlboss"}},
     {person: "Ingrid", luke: "9", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Tegn litt hva du vil men det må være i like dårlig kvalitet som twilight eclipse(treeren).",video:"https://www.youtube.com/watch?v=7Dyu1Fr047U&list=PLRO9q005b62XxX2DCfE-KnOUMrt9hg3Hw&index=5", bilde:"", slutttekst: "Eller så kan du se hele videoen, jeg synes det er en flott burn på twilight filmene(ikke noe hate på bøkene(bare litt))"}},
+    
     {person: "Ingrid", luke: "10", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "11", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "12", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     
     {person: "Ingrid", luke: "13", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "14", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "15", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "16", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "17", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "18", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "19", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     
     {person: "Ingrid", luke: "20", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "21", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "22", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "23", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "24", innhold: 
-        {starttekst:"Oisann, her har jeg sovnet på laubærbladene og ikke oppdatert kalenderen, -10 vennepoeng til meg.",video:"", bilde:"", slutttekst: ""}}
+        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}}
 ]
 
 const thaoOgTine = [
