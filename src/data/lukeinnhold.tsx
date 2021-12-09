@@ -192,17 +192,17 @@ const ingrid = [
     {person: "Ingrid", luke: "13", innhold: 
         {starttekst:"Denne uken tenkte eg å switche det litt opp med noen mønstre. Så hent ett ark, del det i 6 ruter og bruk en rute per dag. Dagens mønster er 'paisley', det er et mønster av dråpeformer, sirkler og blobber." ,video:"", bilde:"https://ipfs.io/ipfs/QmRLCpB5fqvq2wU7UysR4mkhWUoyK7XPH1ZwkreEYqKWBe", slutttekst: "ELLER gå en tur langs et vann/en dam/en elv"}},
     {person: "Ingrid", luke: "14", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens mønster: vifte eller skjell mønster" ,video:"", bilde:"https://cdn.hovia.com/app/uploads/black-art-deco-fan-pattern-wallpaper-mural-Plain-820x532.jpg", slutttekst: "Eller bruk en håndvifte(de kan lages av papir)"}},
     {person: "Ingrid", luke: "15", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens mønster: fraktaler, kinda? noe vihart inspirert i hvertfall" ,video:"https://www.youtube.com/watch?v=EdyociU35u8", bilde:"", slutttekst: "Eller bare se en av vihart sine videoer, de er top shelf stuff"}},
     {person: "Ingrid", luke: "16", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens mønster: rutemønster, men uten rette vinkler" ,video:"", bilde:"", slutttekst: "Eller IKKE GÅ PÅ KANTENE!"}},
     {person: "Ingrid", luke: "17", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens mønster: krusseduller/snirkler/spiraler" ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "18", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens mønster: giraff mønster, de har litt samme mønster som anime-sjø under en flau bris, men giraffer har mer kantete former enn vannet" ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "19", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens mønster: 'undervanns mønster' altså bølgete linjer avbrutt av sirkler" ,video:"", bilde:"", slutttekst: ""}},
     
     {person: "Ingrid", luke: "20", innhold: 
         {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
