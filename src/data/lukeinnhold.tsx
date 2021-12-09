@@ -43,33 +43,33 @@ const kristina = [
     {person: "Kristina", luke: "9", innhold: 
         {starttekst:"Jeg er i et litt 'buhu å skrive master er så vanskelig når man har gode veiledere, signert fulltidskontrakt og ingen flere eksamner'- hjørne så hvorfor ikke joine kongen av selvmedlidenhet?" ,video:"https://www.youtube.com/watch?v=mx7bYY9KZF4&t=394s", bilde:"", slutttekst: "Jeg finner ikke, men trenger et gif av ca. 8:32-8:35"}},
     {person: "Kristina", luke: "10", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"FREDAG! acab, tenk om politiet bare brukte 👐🏻jazzhands👐🏻" ,video:"https://www.youtube.com/watch?v=CfK3tfrTxLw", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "11", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Ny lørdag, ny tin can bros video! Denne uka går vi til spies are forever, en herlig musikal om spioner med all bond-esque musikk man kan ønske seg(ok det er hovedsaklig åpningsnummeret)" ,video:"https://www.youtube.com/watch?v=vd3aJl930YE", bilde:"", slutttekst: "ps: Hvis du bare vil høre sangen skip til 3:32"}},
     {person: "Kristina", luke: "12", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Du har kanskje lagt merke til at forrige søndag var litt roligere, og tenkte kanskje det var søndagstemaet? SPYKE, dette blir en upbeat søndag med starkids svar på 🎵Du e elektrisk, eg får støt når eg tenker på deg🎵" ,video:"https://www.youtube.com/watch?v=4J8eVarEJIA", bilde:"", slutttekst: ""}},
     
     {person: "Kristina", luke: "13", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Mandager er skapt for catchy tunes, jeg foretrekker å distrahere alle med litt nynning isteden for å get the job done" ,video:"https://www.youtube.com/watch?v=P13FelI353o", bilde:"", slutttekst: "You're a total 🎖badass🎖"}},
     {person: "Kristina", luke: "14", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"https://www.youtube.com/watch?v=StzJo-SElog", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "15", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"https://www.youtube.com/watch?v=s3c9K6MKCIs&t=266s", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "16", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"https://www.youtube.com/watch?v=h5VNhmWFq-8", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "17", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"https://www.youtube.com/watch?v=HmpnUf_TiG4&t=159s", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "18", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Så... det er lørdag...du har kanskje merket et lørdags tema i denne kalenderen, THOUGH BEANS, " ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "19", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Søndager har kanskje vært 'a vhs christmas carol'-dager, og nå på den siste søndagen i advent er det kanskje på tide å gå videre til neste sang i rekken? Føkk det. Drit i kornologisk rekkefølge, vet du hva jeg sier til kronologisk rekkefølge? BAH HUMBUG" ,video:"https://www.youtube.com/watch?v=carTCQnK1hs&list=PLq17EiT0ftmkXQUk6gmWt4OpjoOmohYiw", bilde:"", slutttekst: ""}},
     
     {person: "Kristina", luke: "20", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"https://www.youtube.com/watch?v=2uZcoxUB3ns", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "21", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:laubærbladene ,video:"https://www.youtube.com/watch?v=QPd7JrMdfcg", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "22", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"hadde du sett trail to origon? jeg husker ikke helt, men legger inn denne sangen ca. 90% pga Joey Ritcher sin slørdans. (kan inneholde spor av spoilers)" ,video:"https://www.youtube.com/watch?v=OQ72DAgRgkI", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "23", innhold: 
         {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "24", innhold: 
@@ -183,14 +183,14 @@ const ingrid = [
         {starttekst:"Tegn litt hva du vil men det må være i like dårlig kvalitet som twilight eclipse(treeren).",video:"https://www.youtube.com/watch?v=7Dyu1Fr047U&list=PLRO9q005b62XxX2DCfE-KnOUMrt9hg3Hw&index=5", bilde:"", slutttekst: "Eller så kan du se hele videoen, jeg synes det er en flott burn på twilight filmene(ikke noe hate på bøkene(bare litt))"}},
     
     {person: "Ingrid", luke: "10", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"I dagens luke prøver jeg meg på et lite 🎲GAMESHOW🕺🏼, og du kan prøve deg på en etsende gameshow logo. Ok, jeg har faktisk ikke gameshow-genet, men legger med et moroklipp for atmosfære. I det siste har jeg spist en del Q-barne-yougurt(de er på salg på Extra atm) i det siste og de har vitse-gåter på lokket så du skal få prøve deg på noen:\nHva er den mest tøysete blomsten?\n\nFaren til Odd har tre sønner: ole, dole og ...?\n\nHvilken hage bør man ikke vanne?" ,video:"https://www.youtube.com/watch?v=LeBYenU5ntU", bilde:"", slutttekst: "(Svar kommer i neste luke)"}},
     {person: "Ingrid", luke: "11", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens tegneoppgave krever rekvisitter, nemlig: en pose ostepopp. Tegn/spis ostepop slik du vil, enten det er typ 'draw me like one of your ostepop' eller 'alene over vasken kl 3 i natt' er opp til deg" ,video:"https://www.youtube.com/watch?v=R-P0j6-qlq4", bilde:"", slutttekst: "Svar på gårsdagens luke: \nTULLipanen\nOdd\nBarnehage"}},
     {person: "Ingrid", luke: "12", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens tema er ⚫️d·oׄ🔘t🌀a֯⌾r⎊t⦁, kunstens scatterplot. " ,video:"", bilde:"https://ipfs.io/ipfs/QmRLCpB5fqvq2wU7UysR4mkhWUoyK7XPH1ZwkreEYqKWBe", slutttekst: "ELLer send noen en melding i morsekode"}},
     
     {person: "Ingrid", luke: "13", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Denne uken tenkte eg å switche det litt opp med noen mønstre. Så hent ett ark, del det i 6 ruter og bruk en rute per dag. Dagens mønster er 'paisley', det er et mønster av dråpeformer, sirkler og blobber." ,video:"", bilde:"https://ipfs.io/ipfs/QmRLCpB5fqvq2wU7UysR4mkhWUoyK7XPH1ZwkreEYqKWBe", slutttekst: "ELLER gå en tur langs et vann/en dam/en elv"}},
     {person: "Ingrid", luke: "14", innhold: 
         {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "15", innhold: 
