@@ -196,13 +196,13 @@ const ingrid = [
     {person: "Ingrid", luke: "15", innhold: 
         {starttekst:"Dagens mønster: fraktaler, kinda? noe vihart inspirert i hvertfall" ,video:"https://www.youtube.com/watch?v=EdyociU35u8", bilde:"", slutttekst: "Eller bare se en av vihart sine videoer, de er top shelf stuff"}},
     {person: "Ingrid", luke: "16", innhold: 
-        {starttekst:"Dagens mønster: rutemønster, men uten rette vinkler" ,video:"", bilde:"", slutttekst: "Eller IKKE GÅ PÅ KANTENE!"}},
+        {starttekst:"Dagens mønster: rutemønster, men uten rette vinkler" ,video:"", bilde:"https://giphy.com/gifs/trippy-abstract-pi-slices-65OOoQ8bPU2KeKnTlX", slutttekst: "Eller IKKE GÅ PÅ KANTENE!"}},
     {person: "Ingrid", luke: "17", innhold: 
-        {starttekst:"Dagens mønster: krusseduller/snirkler/spiraler" ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens mønster: krusseduller/snirkler/spiraler" ,video:"", bilde:"https://www.creativefabrica.com/wp-content/uploads/2018/01/Curly-pattern-set-by-alisared87-1.png", slutttekst: "Eller gjøre alle(ish) stegene i curlygirl"}},
     {person: "Ingrid", luke: "18", innhold: 
-        {starttekst:"Dagens mønster: giraff mønster, de har litt samme mønster som anime-sjø under en flau bris, men giraffer har mer kantete former enn vannet" ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens mønster: giraff mønster, de har litt samme mønster som anime-sjø under en flau bris, men giraffer har mer kantete former enn vannet" ,video:"", bilde:"https://wallpaperaccess.com/full/1862705.jpg", slutttekst: "Eller gå med hevet hode resten av dagen, stretch that neck!"}},
     {person: "Ingrid", luke: "19", innhold: 
-        {starttekst:"Dagens mønster: 'undervanns mønster' altså bølgete linjer avbrutt av sirkler" ,video:"", bilde:"", slutttekst: "Nå tenker du kanskje 'Dette er det syvende mønsteret og jeg skulle dele et ark i 6 ruter😠', jeg er glad i deg men vi begge vet at du har et par ledige ruter."}},
+        {starttekst:"Dagens mønster: 'organiske striper og sånt'" ,video:"", bilde:"https://image.freepik.com/free-vector/geometric-doodle-shapes-spots-dots-circles-strokes-stripes-lines-set-circle-hand-drawn-patterns-textures-made-with-ink-pencil-brush_87587-338.jpg", slutttekst: "Nå tenker du kanskje 'Dette er det syvende mønsteret og jeg skulle dele et ark i 6 ruter😠', jeg er glad i deg men vi begge vet at du har et par ledige ruter."}},
     
     {person: "Ingrid", luke: "20", innhold: 
         {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
