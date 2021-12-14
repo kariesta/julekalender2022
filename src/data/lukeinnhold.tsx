@@ -52,13 +52,13 @@ const kristina = [
     {person: "Kristina", luke: "13", innhold: 
         {starttekst:"Mandager er skapt for catchy tunes, jeg foretrekker å distrahere alle med litt nynning isteden for å get the job done" ,video:"https://www.youtube.com/watch?v=P13FelI353o", bilde:"", slutttekst: "You're a total 🎖badass🎖"}},
     {person: "Kristina", luke: "14", innhold: 
-        {starttekst:laubærbladene ,video:"https://www.youtube.com/watch?v=StzJo-SElog", bilde:"", slutttekst: ""}},
+        {starttekst:"Tirsdager er... også skapt for catchy tunes!" ,video:"https://www.youtube.com/watch?v=StzJo-SElog", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "15", innhold: 
-        {starttekst:laubærbladene ,video:"https://www.youtube.com/watch?v=s3c9K6MKCIs&t=266s", bilde:"", slutttekst: ""}},
+        {starttekst:"I dag er dagen. Det er på tide med DEN sangen" ,video:"https://www.youtube.com/watch?v=s3c9K6MKCIs&t=266s", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "16", innhold: 
-        {starttekst:laubærbladene ,video:"https://www.youtube.com/watch?v=h5VNhmWFq-8", bilde:"", slutttekst: ""}},
+        {starttekst:"Nå er det på tide med litt Meredith appreciation, Lauren er også her." ,video:"https://www.youtube.com/watch?v=h5VNhmWFq-8", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "17", innhold: 
-        {starttekst:laubærbladene ,video:"https://www.youtube.com/watch?v=HmpnUf_TiG4&t=159s", bilde:"", slutttekst: ""}},
+        {starttekst:"NAME A MORE ICONIC DUO" ,video:"https://www.youtube.com/watch?v=HmpnUf_TiG4&t=159s", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "18", innhold: 
         {starttekst:"Så... det er lørdag...du har kanskje merket et lørdags tema i denne kalenderen, THOUGH BEANS, " ,video:"", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "19", innhold: 
@@ -202,7 +202,7 @@ const ingrid = [
     {person: "Ingrid", luke: "18", innhold: 
         {starttekst:"Dagens mønster: giraff mønster, de har litt samme mønster som anime-sjø under en flau bris, men giraffer har mer kantete former enn vannet" ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "19", innhold: 
-        {starttekst:"Dagens mønster: 'undervanns mønster' altså bølgete linjer avbrutt av sirkler" ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens mønster: 'undervanns mønster' altså bølgete linjer avbrutt av sirkler" ,video:"", bilde:"", slutttekst: "Nå tenker du kanskje 'Dette er det syvende mønsteret og jeg skulle dele et ark i 6 ruter😠', jeg er glad i deg men vi begge vet at du har et par ledige ruter."}},
     
     {person: "Ingrid", luke: "20", innhold: 
         {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
