@@ -60,7 +60,7 @@ const kristina = [
     {person: "Kristina", luke: "17", innhold: 
         {starttekst:"NAME A MORE ICONIC DUO" ,video:"https://www.youtube.com/watch?v=HmpnUf_TiG4&t=159s", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "18", innhold: 
-        {starttekst:"Så... det er lørdag...du har kanskje merket et lørdags tema i denne kalenderen, THOUGH BEANS, " ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Så... det er lørdag...du har kanskje merket et lørdags tema i denne kalenderen, typ noe nytt usett, and that is totally awesome, men har du sett en spilleliste av alle upbeat/battle sangene fra 'a very potter'-musikalene? (har prøvd å få med bare good vibes så første sangen mangler litt av starten.)" ,video:"https://www.youtube.com/watch?v=4yVuvU3Zjt0&list=PL4IuWDbng5ih8WpDIgDTzFrS6Vmji71ff&index=2&t=70s", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "19", innhold: 
         {starttekst:"Søndager har kanskje vært 'a vhs christmas carol'-dager, og nå på den siste søndagen i advent er det kanskje på tide å gå videre til neste sang i rekken? Føkk det. Drit i kornologisk rekkefølge, vet du hva jeg sier til kronologisk rekkefølge? BAH HUMBUG" ,video:"https://www.youtube.com/watch?v=carTCQnK1hs&list=PLq17EiT0ftmkXQUk6gmWt4OpjoOmohYiw", bilde:"", slutttekst: ""}},
     
