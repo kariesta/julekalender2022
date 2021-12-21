@@ -67,13 +67,13 @@ const kristina = [
     {person: "Kristina", luke: "20", innhold: 
         {starttekst:laubærbladene ,video:"https://www.youtube.com/watch?v=2uZcoxUB3ns", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "21", innhold: 
-        {starttekst:laubærbladene ,video:"https://www.youtube.com/watch?v=QPd7JrMdfcg", bilde:"", slutttekst: ""}},
+        {starttekst:"lets go back WAAAAAAY back, *swoooosh* ops, I got caught on some thing, what was that?" ,video:"https://www.youtube.com/watch?v=QPd7JrMdfcg", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "22", innhold: 
-        {starttekst:"hadde du sett trail to origon? jeg husker ikke helt, men legger inn denne sangen ca. 90% pga Joey Ritcher sin slørdans. (kan inneholde spor av spoilers)" ,video:"https://www.youtube.com/watch?v=OQ72DAgRgkI", bilde:"", slutttekst: ""}},
+        {starttekst:"hadde du sett trail to origon? jeg husker ikke helt, men legger inn denne sangen ca. 90% pga slørdans og sensuellappeal(?). (kan inneholde spor av spoilers)" ,video:"https://www.youtube.com/watch?v=OQ72DAgRgkI", bilde:"", slutttekst: ""}},
     {person: "Kristina", luke: "23", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Don't let your dreams be memes!" ,video:"https://www.youtube.com/watch?v=vU87KtgS6hA", bilde:"", slutttekst: "(Jeg liker karakterutviklingen man hører fra 'I wanna be' til denne, Bug gikk fra drømmer til selvrealisør, a bug with a plan(ish). Ønsker deg også mye selvrealisøritet til jul/i det nye året.(Jeg er litt i mot siste linje dog, 'Its everything I am' føler ikke jobben skal ta såå mye plass i livet.))"}},
     {person: "Kristina", luke: "24", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}}
+        {starttekst:"Da er vi her juleaften! Også kjent som begynnelsen på romjulen, men begynnelsen på en ting er også slutten på en annen, kjør rulletekst!" ,video:"https://youtu.be/8ZwaYwC4kvk?t=433", bilde:"", slutttekst: ""}}
 ]
 
 const sigrunn = [
@@ -209,11 +209,11 @@ const ingrid = [
     {person: "Ingrid", luke: "21", innhold: 
         {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
     {person: "Ingrid", luke: "22", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens oppgave, hvis du er up for the challenge, er en vinduskarm, med utsikt og det hele" ,video:"", bilde:"https://media4.giphy.com/media/3o7TKylf478NjD7BhS/giphy.gif?cid=ecf05e47exw06ouar46weu6z7weelzsvh5yrbqv7o1c09eo0&rid=giphy.gif&ct=g", slutttekst: "Evt. sitt i en vinduskarm"}},
     {person: "Ingrid", luke: "23", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}},
+        {starttekst:"Dagens tegne oppgave er et juletre!" ,video:"", bilde:"https://images.interactives.dk/twinkly-NGe6FkNnVy8eXgEtPLAbOA.gif", slutttekst: "ELLER pynt et tre ;) (det må ikke være et juletre)"}},
     {person: "Ingrid", luke: "24", innhold: 
-        {starttekst:laubærbladene ,video:"", bilde:"", slutttekst: ""}}
+        {starttekst:"Den siste luka har kommet! Det var hyggelig så lenge det varte i dag " ,video:"", bilde:"https://c.tenor.com/jdF6PNB50dIAAAAC/gift-avocado.gif", slutttekst: "ELLER si 'takk det var akkuratt det jeg ønsket meg', i den mest monotone stemmen du får til når noen gir deg noe"}}
 ]
 
 const thaoOgTine = [
