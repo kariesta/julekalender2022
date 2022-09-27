@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Julekalender2021/static/css/main.5ba5ca87.chunk.css",
+    "main.js": "/Julekalender2021/static/js/main.4f63e5b8.chunk.js",
+    "main.js.map": "/Julekalender2021/static/js/main.4f63e5b8.chunk.js.map",
+    "runtime-main.js": "/Julekalender2021/static/js/runtime-main.2346224e.js",
+    "runtime-main.js.map": "/Julekalender2021/static/js/runtime-main.2346224e.js.map",
+    "static/js/2.d03857b0.chunk.js": "/Julekalender2021/static/js/2.d03857b0.chunk.js",
+    "static/js/2.d03857b0.chunk.js.map": "/Julekalender2021/static/js/2.d03857b0.chunk.js.map",
+    "static/js/3.f7b6763e.chunk.js": "/Julekalender2021/static/js/3.f7b6763e.chunk.js",
+    "static/js/3.f7b6763e.chunk.js.map": "/Julekalender2021/static/js/3.f7b6763e.chunk.js.map",
+    "index.html": "/Julekalender2021/index.html",
+    "static/css/main.5ba5ca87.chunk.css.map": "/Julekalender2021/static/css/main.5ba5ca87.chunk.css.map",
+    "static/js/2.d03857b0.chunk.js.LICENSE.txt": "/Julekalender2021/static/js/2.d03857b0.chunk.js.LICENSE.txt",
+    "static/media/blurreyparis.fcf97abf.jpg": "/Julekalender2021/static/media/blurreyparis.fcf97abf.jpg",
+    "static/media/krissykariersmart.807126fb.png": "/Julekalender2021/static/media/krissykariersmart.807126fb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2346224e.js",
+    "static/js/2.d03857b0.chunk.js",
+    "static/css/main.5ba5ca87.chunk.css",
+    "static/js/main.4f63e5b8.chunk.js"
+  ]
+}
